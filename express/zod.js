@@ -28,6 +28,3 @@ app.listen(3000, function(){
 });
 
 
-what are the valid inputs for the above code snippet?
-
-- {email: " ", password: " "}   // 1
